@@ -1,0 +1,59 @@
+html
+{
+    
+}
+
+
+#rouge
+{
+    background-color: red;
+    cursor: crosshair;
+    width: 7%;
+    font-size: 150%;
+
+}
+#bleu
+{
+    background-color: blue;
+    cursor: crosshair;
+    width: 7%;
+    font-size: 150%;
+}
+#jaune
+{
+    background-color: yellow;
+    cursor: crosshair;
+    width: 7%;
+    font-size: 150%;
+}
+#blanc
+{
+    background-color: white;
+    cursor: crosshair;
+    width: 7%;
+    font-size: 150%;
+}
+#play
+{
+    margin-left: 5%;
+    cursor: crosshair;
+    background-color: violet;
+    width: 7%;
+    font-size: 150%;
+}
+#lvl
+{
+    margin-left: 5%;
+    cursor: crosshair;
+    background-color: violet;
+    width: 7%;
+    font-size: 150%;
+}
+h1
+{
+    text-align: center;
+}
+article
+{
+    text-align: center;
+}
